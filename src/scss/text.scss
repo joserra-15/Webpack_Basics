@@ -1,0 +1,5 @@
+//A sass file called text.scss that applies the css style rules related to text.
+@use 'colors' as *;
+h1{
+  color: $blue;
+}
